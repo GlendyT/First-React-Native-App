@@ -4,7 +4,6 @@ import {useState} from 'react';
 import {Text, View} from 'react-native';
 import {globalStyles} from '../theme/global.styles';
 
-import Icon from 'react-native-vector-icons/Ionicons';
 import {FAB} from 'react-native-paper';
 
 interface Props {
